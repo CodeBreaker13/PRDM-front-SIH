@@ -2,7 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom dark variant */
+
 @custom-variant dark (&:is(.dark *));
 
 :root {
