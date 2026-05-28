@@ -1,15 +1,3 @@
----
-title: FinalProBack
-emoji: 📉
-colorFrom: purple
-colorTo: yellow
-sdk: docker
-pinned: false
-license: unknown
----
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-
 <h1 align="center">🌱 CropVision AI</h1>
 <p align="center">
   <em>AI-powered Plant Disease Detection with Grok Cure Assistant</em>
